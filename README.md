@@ -13,7 +13,7 @@ Botnet written in Python using Paramiko
 1. install all of the files in the "client_side" folder
 2. open the "client_virus.py" file and add your executable name, linux server ip address, linux server username, and linux server password (NOTE: THESE ARE IN PLAIN TEXT IN THE FILE)
 3. install requirements (see requirements section)
-4. compile the "client_virus.py" file into an exe, make sure to change the name to the executable name that you set in the code (also make sure to change the file icon to something convincing).
+4. compile the "client_virus.py" file into an exe, make sure to change the name to the executable name that you set in the code (it won't work otherwise) and i recommend adding an icon to the executable aswell.
 5. Your client file is all set!
 
 # Requirements
