@@ -1,0 +1,11 @@
+win32crypt
+pycrypt
+paramiko
+playsound
+keyboard
+pillow
+requests
+psutil
+pyautogui
+bs4
+fernet
