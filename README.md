@@ -2,9 +2,9 @@
 Botnet written in Python using Paramiko
 ------------------------------------------------------------
 
-# **Major Bug With Server**
+# **How to Initialize Server**
 ------------------------------------------------------------
-to initialize the server, you need to get a client, and use the sendfile command, if you don't do this, you will get inaccurate responses from you clients
+to initialize the server, you need to get any client, and use the sendfile command, if you don't do this, you will get inaccurate responses from you clients
 
 # Setup Server
 ------------------------------------------------------------
