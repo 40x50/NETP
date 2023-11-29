@@ -19,3 +19,12 @@ Botnet written in Python using Paramiko
 # Requirements
 ------------------------------------------------------------
 win32crypt, pycrypt, paramiko, playsound, keyboard, pillow, requests, psutil, pyautogui, bs4, fernet
+
+# NOTICE
+------------------------------------------------------------
+this botnet has major flaws, so feel free to fork this and make changes to the current defects:
+  - the server and clients communicate ONLY through files and folders being altered on the server (that's why you need server_setup.py to create the directories and files for you)
+  - the information of your linux is in plain text, this means someone could easily decomple the executable you made and see your server information
+  - the client files only work on windows because of the some of the modules and methods used
+  - the server files have not been tested on anything besides Debian Linux
+  - the communication between server and client is slow
